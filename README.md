@@ -24,8 +24,9 @@ In the initial data preparation phase, we performed the following tasks:<br>
 Data loading and inspection.<br>
 Handling missing values.<br>
 Data cleaning and formatting.<br>
-<br><br>
-
+<br>
+We then prepared the 'hrData.csv file'
+<br>>br>
 Data Analysis<br><br>
 SQL CODE: <br>
 <br>
