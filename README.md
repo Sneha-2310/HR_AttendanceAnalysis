@@ -43,7 +43,7 @@ This gives us the  Sick leave percentage for each employee seprately.
 <br><br>
 <img width="600" alt="image" src="https://github.com/Sneha-2310/HR_AttendanceAnalysis/assets/98509803/f5cc59dc-8b77-4962-a8bf-ffeb97ce9e5f">
 <br><br>
-Above is data extracted for each weekday seperately
+Above is data extracted for each weekday seperately<br><br>
 <img width="600" alt="image" src="https://github.com/Sneha-2310/HR_AttendanceAnalysis/assets/98509803/5a7394a2-2bfd-42bc-9637-564568adb450">
 <br><br>
 Above is the total data for each date
