@@ -26,7 +26,7 @@ Handling missing values.<br>
 Data cleaning and formatting.<br>
 <br>
 We then prepared the 'hrData.csv file'
-<br>>br>
+<br><br>
 Data Analysis<br><br>
 SQL CODE: <br>
 <br>
