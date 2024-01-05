@@ -1,25 +1,23 @@
-Employee Attendance Data Analysis for the HR <br><br>
-Table of Contents<br>
-Project Aim<br>
-Data Sources<br>
-Recommendations<br>
-<br>
-Project Aim <br>
+<h2>Employee Attendance Data Analysis for the HR </h2>
+<hr>
+<h3>Table of Contents</h3>
+<ul><li>Project Aim</li>
+<li>Data Sources</li>
+<li>Recommendations</li></ul>
+<hr>
+<h3>Project Aim </h3>
 Determine the working preferences of your staff, since work from home, hybrid modes, and other options are accessible. <br>
 The quantity of sick leaves must be examined since they may be a source of worry for covid.<br> 
 
-<br>
-Data Sources:<br>
+<h3>Data Sources:</h3>
 The primary dataset used for this analysis is the "Attendance Sheet.xlsx" file, containing detailed information about the attendance of the staff of xyz company,<br> 
 The data contains information about work leave, half work leave, workfrom home, sick leave and presence at office for each employee for the month of april, may and june.<br><br>
-
-Tools<br>
-Excel - Data Cleaning<br>
-SQL Server - Data Analysis<br>
-PowerBI - Creating reports<br>
-Data Cleaning/Preparation<br>
-<br>
-
+<h3>Tools</h3>
+<ul><li>Excel - Data Cleaning</li>
+<li>SQL Server - Data Analysis</li>
+<li>PowerBI - Creating reports</li>
+<li>Data Cleaning/Preparation</li>
+</ul>
 In the initial data preparation phase, we performed the following tasks:<br>
 Data loading and inspection.<br>
 Handling missing values.<br>
@@ -28,7 +26,7 @@ Data cleaning and formatting.<br>
 We then prepared the 'hrData.csv file'
 <br><br>
 Data Analysis<br><br>
-SQL CODE: <br>
+<u><b>SQL CODE:</b></u> <br>
 <br>
 <img width="409" alt="image" src="https://github.com/Sneha-2310/HR_AttendanceAnalysis/assets/98509803/c9e0b153-c937-4f52-88c5-6dd1535f4538">
 <br>
@@ -49,6 +47,7 @@ This gives us the  Sick leave percentage for each employee seprately.
 <img width="600" alt="image" src="https://github.com/Sneha-2310/HR_AttendanceAnalysis/assets/98509803/5a7394a2-2bfd-42bc-9637-564568adb450">
 <br><br><br>
 Next, we made a dashboard of this data as shown below
+<h3><u>PowerBI Dashboard</u></h3>
 <br>
 <img width="700" alt="image" src="https://github.com/Sneha-2310/HR_AttendanceAnalysis/assets/98509803/eb475150-f25b-4130-b4b9-caccc1ae8ae8">
 <br><br>
@@ -59,7 +58,7 @@ Next, we made a dashboard of this data as shown below
 The dashboard provides us a dynamic insight to the data of employee seprately.<br>
 We can see the trend of employee attendance based on weekday and over the month.
 <br><br>
-Recommendations:<br>
+<h3><u>Recommendations :</u></h3>
 The trend shows that there has been an increase in the number of work from home employees. We can make arrangements for a hybrid mode.<br>
 This can improve space utilisation and reduce infrastructure costs.<br>
 Also there has been a sudden increase in the number of sick leaves in the month of May.<br>
